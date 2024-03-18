@@ -1,7 +1,3 @@
-Certainly! Here's the README.md file with partitions between each section:
-
----
-
 # Introduction to Spacy Library
 
 ![Spacy](https://img.shields.io/badge/Spacy-Introduction-brightgreen.svg)
